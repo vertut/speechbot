@@ -5,6 +5,4 @@
 
 С помощью библиотеки pyttsx3 выбрать нужный вам голос (https://pyttsx3.readthedocs.io/en/latest/)
 
-Установить FFmpeg (https://www.ffmpeg.org/download.html)
-
-Все!
+Дополнителько нужно установить FFmpeg (https://www.ffmpeg.org/download.html)
