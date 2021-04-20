@@ -130,7 +130,7 @@ dmypy.json
 
 # Local ignores
 data/
+temp/
 *.mp3
 *.ogg
 .token
-voice_choose.py
