@@ -133,3 +133,4 @@ data/
 *.mp3
 *.ogg
 .token
+voice_choose.py
